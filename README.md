@@ -18,6 +18,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
                 
 - ### Micro Projects:
 	- __R__
-		- [Comparison between traditional statistical modeling and machine learning techniques](https://rpubs.com/Pankajkarki786/369094):  I am interested to learn how well can I predict whether an individual’s annual income exceeds $50,000 using the set of variables in this data set. The question is inspected in two different approaches - traditional statistical modeling and machine learning techniques. 
+		- [Comparison between traditional statistical modeling and ML techniques](https://rpubs.com/Pankajkarki786/369094):  I am interested to learn how well can I predict whether an individual’s annual income exceeds $50,000 using the set of variables in this data set. The question is inspected in two different approaches - traditional statistical modeling and machine learning techniques. 
 		- [ML Classification: Decision Trees and Random Forests](https://rpubs.com/Pankajkarki786/369264): Using Decision Trees and Random Forests to classify schools as Private or Public.
         
