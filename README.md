@@ -21,3 +21,15 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 		- [Comparison between traditional statistical modeling and ML techniques](https://rpubs.com/Pankajkarki786/369094):  I am interested to learn how well can I predict whether an individual’s annual income exceeds $50,000 using the set of variables in this data set. The question is inspected in two different approaches - traditional statistical modeling and machine learning techniques. 
 		- [ML Classification: Decision Trees and Random Forests](https://rpubs.com/Pankajkarki786/369264): Using Decision Trees and Random Forests to classify schools as Private or Public.
         
+
+- ### Workshop:
+	- __Python__
+		- [Apparel Recommendation Engine Workshop](https://rpubs.com/Pankajkarki786/369094):  In this workshop, I have build a recommendation engine which suggests similar products to the given product in any e-commerce websites ex. Amazon.com, myntra.com etc
+		The recommendation engine, uses information about 1,80,000 products and  each product will have multiple features named
+                     - Title of the product  
+                     - Brand of the product
+                     - Color of the product
+                     - Type of the product
+                     - Image of the apparel
+                     - Data Source: Amazon.com
+	 
