@@ -20,7 +20,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	- __Python__
 		- [ML with Linear Regression](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Linear%20Regression.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
-		- [ML with Logistic Regression](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20Logistic%20Regression.ipynb): Using KNN to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method.
+		- [ML with Logistic Regression](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20Logistic%20Regression.ipynb): We will create a logistic regression model that will predict whether or not a user will click on an ad, based on his/her features. 
 		
 
 	- __R__
