@@ -17,6 +17,12 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
                 
                 
 - ### Micro Projects:
+
+	- __Python__
+		- [ML with Linear Regression](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Linear%20Regression.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
+		- [ML with Logistic Regression](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20Logistic%20Regression.ipynb): Using KNN to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method.
+		
+
 	- __R__
 		- [Comparison between traditional statistical modeling and ML techniques](https://rpubs.com/Pankajkarki786/369094):  I am interested to learn how well can I predict whether an individual’s annual income exceeds $50,000 using the set of variables in this data set. The question is inspected in two different approaches - traditional statistical modeling and machine learning techniques. 
 		- [ML Classification: Decision Trees and Random Forests](https://rpubs.com/Pankajkarki786/369264): Using Decision Trees and Random Forests to classify schools as Private or Public.
