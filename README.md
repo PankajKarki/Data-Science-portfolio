@@ -23,6 +23,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- __Python__
 		- [ML with Linear Regression](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Linear%20Regression.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
 		- [ML with Logistic Regression](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20Logistic%20Regression.ipynb): We will create a logistic regression model that will predict whether or not a user will click on an ad, based on his/her features. 
+		- [Retrieving Wikipedia articles](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/Document%20Retrival%20System.ipynb): In this project, we focused on using nearest neighbors and clustering to retrieve documents that interest users, by analyzing their text. We explored two document representations: word counts and TF-IDF.
 		
 
 	- __R__
