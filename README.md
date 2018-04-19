@@ -11,6 +11,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	- __Python__ 
 		- [Analysing product sentiment](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/Analysing%20product%20sentiments.ipynb): Analysing and building a sentiment classification model using graphlab with the amazon baby product dataset. 
+		- [MLB Housing Market EDA and Regression](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/MLB%20Housing%20Market%20EDA%20and%20Regression.ipynb): The objective of this project is to apply exploratory analysis and regression techniques to identify which features affect home prices the most in the Melbourne Housing Market.
 	- __R__ 
 		- [Exploratory Data Analysis of Behavioral Risk Factor Surveillance System](https://rpubs.com/Pankajkarki786/369090): Exploratory analysis of the BRFSS-2013 data set, focusing on investigating the relationship between education and eating habits, sleep and mental health, and smoking, drinking and general health of a person. 
 		- [Inference Statistics with GSS data](https://rpubs.com/Pankajkarki786/369261) : Using the GSS (General Social Survey) dataset to infer if, in the year 2012, were men, of 18 years or above in the United States, more likely to oppose sex education in public schools than women.
