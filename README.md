@@ -26,6 +26,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 		- [ML with Logistic Regression](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20Logistic%20Regression.ipynb): We will create a logistic regression model that will predict whether or not a user will click on an ad, based on his/her features. 
 		- [Retrieving Wikipedia articles](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/Document%20Retrival%20System.ipynb): In this project, we focused on using nearest neighbors and clustering to retrieve documents that interest users, by analyzing their text. We explored two document representations: word counts and TF-IDF.
 		- [Song Recommender System](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/Song%20Recommender%20System.ipynb): This project is for recommending songs, which compared the simple popularity-based recommendation with a personalized model, and showed the significant improvement provided by personalization.
+		- [Malware Detection using Machine Learning](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/Malware%20Detection%20Classification.ipynb): To classify wheather a file is malicious or not using machine learning techniques.
 		
 
 	- __R__
