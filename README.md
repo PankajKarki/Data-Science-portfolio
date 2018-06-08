@@ -36,6 +36,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Workshop:
 	- __Python__
-		- [Apparel Recommendation Engine Workshop](https://rpubs.com/Pankajkarki786/369094):  In this workshop, I have build a recommendation engine which suggests similar products to the given product in any e-commerce websites ex. Amazon.com, myntra.com etc.
+		- [Apparel Recommendation Engine Workshop](https://github.com/PankajKarki/Data-Science-portfolio/blob/master/Apparel%20Recommendation%20Engine/apparel-recommendation-engine.ipynb):  In this workshop, I have build a recommendation engine which suggests similar products to the given product in any e-commerce websites ex. Amazon.com, myntra.com etc.
 		
 	 
