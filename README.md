@@ -3,7 +3,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 #### The R portfolio is located [here](https://rpubs.com/Pankajkarki786).
 
-_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
+_Note: Data used in the projects is for demonstration purposes only._
 
 ## Contents
 
